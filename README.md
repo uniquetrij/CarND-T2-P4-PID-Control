@@ -41,7 +41,7 @@ There's an experimental patch for windows in this [PR](https://github.com/udacit
 3. Compile: `cmake .. && make`
 4. Run it: `./pid`. 
 
-##Reflection
+## Reflection
 
 A PID (proportional–integral–derivative) controller is a control mechanism that may be used to continuously modulate control based on some kind of feedback from the system. For the purpose of the self driving car, the cross-track-error (cte) may be used as the basis of the control to modulate its steering angle so as to reduce the error as much as possible as the vehicle moves on the track.
 
