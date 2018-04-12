@@ -96,4 +96,6 @@ The following functions represent how much the throttle and steering are to be r
 
 
 ## Conclusion
-The simulation result were quite impressive with the above implementation. The max speed of the car reached up to 33 mph, while automatically regulating at during the turns so as to prevent it from overturning, wobbling or otherwise moving out of the track. It was a great experience working with the project, especially while tuning the hyper-parameters and finding the functions to further regulate the steering and throttle based on the error and current speed.
+A video of the simulation results can be found [here](https://github.com/uniquetrij/CarND-T2-P4-PID-Control/blob/master/video.mp4).
+
+The simulation result were quite impressive with the above implementation. The max speed of the car reached up to 33 mph, while automatically regulating it during the turns so as to prevent it from overturning, wobbling or otherwise moving out of the track. It was a great experience working with the project, especially while tuning the hyper-parameters and finding the functions to further regulate the steering and throttle based on the error and current speed.
